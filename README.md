@@ -22,7 +22,7 @@ Aplikasi Print Voucher adalah sebuah aplikasi berbasis Windows yang digunakan un
 1. Unduh dan instal [Git Bash](https://git-scm.com/downloads) jika belum terinstal.
 2. Klon repository ini dengan perintah:
    ```bash
-   git clone [https://github.com/YuiKasumii/YuiPrinter_RemotePrint.git](https://github.com/YuiKasumii/YuiPrinter_RemotePrint.git)
+   git clone https://github.com/YuiKasumii/YuiPrinter_RemotePrint.git
    cd YuiPrinter_RemotePrint
    ```
 3. Buka folder proyek dan bangun aplikasi menggunakan Visual Studio atau .NET CLI.
