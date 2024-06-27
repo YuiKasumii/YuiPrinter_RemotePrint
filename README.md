@@ -1,4 +1,7 @@
 
+## Screenshoot
+![Alt text](Screenshoot.png)
+
 # Print Voucher Application
 
 Aplikasi Print Voucher adalah sebuah aplikasi berbasis Windows yang digunakan untuk mencetak voucher dari server. Aplikasi ini secara otomatis mengambil data voucher dari server, mendekode file PDF dari Base64, dan mencetaknya ke printer yang telah ditentukan. 
